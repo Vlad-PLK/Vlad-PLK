@@ -4,11 +4,11 @@ I'm currently 19 years old and I've been following 42's main course since March 
 a month of rest I started the cursus. 
 Right now, I'm coding and learning in C, but during 42's common core i will also learn C++ and Javascript. 
 
-I'm hoping to become a full-stack developper in Web3 after graduating 42. For the moment (March 2023), I'm finishing the 4th circle and I will be heading to Cub3D.
+I'm hoping to become a full-stack developper in Web3 after graduating 42.
 
 Here you will find all my journey throw 42 school, with all the differents projects documented with my researchs and my approaches to find solutions to them.
 
-Now you can find here : 
+Now, you can find here : 
   - LIBFT
   - PRINTF
   - GET NEXT LINE
