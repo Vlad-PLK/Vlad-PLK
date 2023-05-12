@@ -1,9 +1,13 @@
+
+# 42 CODING PROJECTS
+![42img](https://github.com/Vlad-PLK/Vlad-PLK/assets/61476758/e2238bb7-9b48-49fe-98d3-4fb85ce0278a)
+
 Hello everyone, I'm Vladimir, a 42 Nice Student.
 
 I've been following 42's main course since March 2022 after the "piscine" of February 2022. 
-I'm hoping to become a full-stack developper in Web3 after graduating 42.
+I'm hoping to become a full-stack developper in Web3 after graduating.
 
-Here you will find all my journey throw 42 school, with all the differents projects (sorted on 42's holy graph) documented with my researchs and my approaches to find solutions to them.
+Here you will find all my journey throw 42, with all the differents projects (based on 42's holy graph) documented with my researchs and my approaches to find solutions to them.
 
 | Circle 0        | Circle 1           |  Circle 3    | Circle 4   | Circle 5  |
 | :------------:   | :-------------: | :---------: | :---------: | :---------: |
@@ -18,3 +22,4 @@ See you soon and hope you enjoy my page !
 Vlad-PLK/Vlad-PLK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
