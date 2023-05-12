@@ -7,19 +7,9 @@ Here you will find all my journey throw 42 school, with all the differents proje
 
 | Circle 0        | Circle 1           |  Circle 3    | Circle 4   | Circle 5  |
 | :------------:   | :-------------: | :---------: | :---------: | :---------: |
-| LIBFT            | PRINTF          |  PUSH SWAP | MINISHELL | NETPRACTICE |
-|                     | GET NEXT LINE   | SO LONG    | PHILOSOPHER | CUB3D |
-|                     |                    | PIPEX      |             | CPP 0-4 |
-
-
-  - LIBFT
-  - PRINTF
-  - GET NEXT LINE
-  - PUSH SWAP
-  - SO LONG
-  - PIPEX
-  - PHILOSOPHER
-  - MINISHELL
+| [LIBFT](https://github.com/Vlad-PLK/LIBFT)           | [PRINTF](https://github.com/Vlad-PLK/PRINTF)          |  [PUSH SWAP](https://github.com/Vlad-PLK/PUSH_SWAP) | [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | [NETPRACTICE](https://github.com/Vlad-PLK/NETPRACTICE) |
+|                     | [GET NEXT LINE](https://github.com/Vlad-PLK/GET_NEXT_LINE)   | [SO LONG](https://github.com/Vlad-PLK/SO_LONG)    | [PHILOSOPHER](https://github.com/Vlad-PLK/PHILOSOPHER) | [CUB3D](https://github.com/Vlad-PLK/LIBFT) |
+|                     |                    | [PIPEX](https://github.com/Vlad-PLK/PIPEX)      |             | [CPP 0-4](https://github.com/Vlad-PLK/LIBFT) |
 
 If you have any questions or subjects you wanna discuss with me, fell free to ask me here or on slack (vpolojie) if you are a 42 student.
 
