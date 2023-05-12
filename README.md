@@ -1,14 +1,17 @@
 Hello everyone, I'm Vladimir, a 42 Nice Student.
 
-I'm currently 19 years old and I've been following 42's main course since March 2022. I've passed the "piscine" of February 2022 successfully and after
-a month of rest I started the cursus. 
-Right now, I'm coding and learning in C, but during 42's common core i will also learn C++ and Javascript. 
-
+I've been following 42's main course since March 2022 after the "piscine" of February 2022. 
 I'm hoping to become a full-stack developper in Web3 after graduating 42.
 
-Here you will find all my journey throw 42 school, with all the differents projects documented with my researchs and my approaches to find solutions to them.
+Here you will find all my journey throw 42 school, with all the differents projects (sorted on 42's holy graph) documented with my researchs and my approaches to find solutions to them.
 
-Now, you can find here : 
+| Circle 0        | Circle 1           |  Circle 3    | Circle 4   | Circle 5  |
+| :------------:   | :-------------: | :---------: | :---------: | :---------: |
+| LIBFT            | PRINTF          |  PUSH SWAP | MINISHELL | NETPRACTICE |
+|                     | GET NEXT LINE   | SO LONG    | PHILOSOPHER | CUB3D |
+|                     |                    | PIPEX      |             | CPP 0-4 |
+
+
   - LIBFT
   - PRINTF
   - GET NEXT LINE
