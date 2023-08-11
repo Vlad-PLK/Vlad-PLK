@@ -14,3 +14,7 @@ Ici vous trouverez tout mon parcours avec 42, c'est à dire l'ensemble des proje
 | [LIBFT](https://github.com/Vlad-PLK/LIBFT)           | [PRINTF](https://github.com/Vlad-PLK/PRINTF)          |  [PUSH SWAP](https://github.com/Vlad-PLK/PUSH_SWAP) | [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | [NETPRACTICE](https://github.com/Vlad-PLK/NETPRACTICE) |
 |                     | [GET NEXT LINE](https://github.com/Vlad-PLK/GET_NEXT_LINE)   | [SO LONG](https://github.com/Vlad-PLK/SO_LONG)    | [PHILOSOPHER](https://github.com/Vlad-PLK/PHILOSOPHER) | [CUB3D](https://github.com/Rilemko/42_cub3d) |
 |                     |                    | [PIPEX](https://github.com/Vlad-PLK/PIPEX)      |             | [CPP 0-4](https://github.com/Vlad-PLK/LIBFT) |
+
+Si vous avez des questions ou bien des sujets sur lesquels vous aimeriez parler avec moi, n'hésitez pas à me contacter ici ou même sur slack (vpolojie) si vous êtes également à 42.
+
+A bientôt j'espère !
