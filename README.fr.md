@@ -2,6 +2,8 @@
 # 42 PROJETS
 ![42img](https://github.com/Vlad-PLK/Vlad-PLK/assets/61476758/e2238bb7-9b48-49fe-98d3-4fb85ce0278a)
 
+[ENG VERSION](https://github.com/Vlad-PLK)
+
 Bonjour à tous, je suis Vladimir, étudiant à l'école 42 NICE.
 
 J'ai intégré l'école 42 en Mars 2022 après avoir réussi mon mois de piscine en Février de la même année.
