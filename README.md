@@ -2,6 +2,8 @@
 # 42 CODING PROJECTS
 ![42img](https://github.com/Vlad-PLK/Vlad-PLK/assets/61476758/e2238bb7-9b48-49fe-98d3-4fb85ce0278a)
 
+[FR VERSION](https://github.com/Vlad-PLK/README.fr.md)
+
 Hello everyone, I'm Vladimir, a 42 Nice Student.
 
 I've been following 42's main course since March 2022 after the "piscine" of February 2022. 
