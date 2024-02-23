@@ -18,7 +18,7 @@ Here you will find all my journey throw 42, with all the differents projects (ba
 | :------------:   | :-------------: | :---------: | :---------: | :---------: |:---------:|
 | [LIBFT](https://github.com/Vlad-PLK/LIBFT)           | [PRINTF](https://github.com/Vlad-PLK/PRINTF)          |  [PUSH SWAP](https://github.com/Vlad-PLK/PUSH_SWAP) | [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | [NETPRACTICE](https://github.com/Vlad-PLK/NETPRACTICE) | [FT-IRC](https://github.com/Vlad-PLK)
 |                     | [GET NEXT LINE](https://github.com/Vlad-PLK/GET_NEXT_LINE)   | [SO LONG](https://github.com/Vlad-PLK/SO_LONG)    | [PHILOSOPHER](https://github.com/Vlad-PLK/PHILOSOPHER) | [CUB3D](https://github.com/Rilemko/42_cub3d) | [INCEPTION](https://github.com/Vlad-PLK)
-|                     |                    | [PIPEX](https://github.com/Vlad-PLK/PIPEX)      |             | [CPP 0-4](https://github.com/Vlad-PLK/CPP0) |[CPP 5-9](https://github.com/Vlad-PLK/CPP5)
+|                     |                    | [PIPEX](https://github.com/Vlad-PLK/PIPEX)      |             | [CPP 0-4](https://github.com/Vlad-PLK/CPP0-4) |[CPP 5-9](https://github.com/Vlad-PLK/CPP5-9)
 
 If you have any questions or subjects you wanna discuss with me, fell free to ask me here or on slack (vpolojie) if you are a 42 student.
 
