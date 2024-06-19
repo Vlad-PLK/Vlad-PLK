@@ -36,7 +36,7 @@ Of course I'm open to work and let's do it together if you want to achieve every
 | [PHILOSOPHER](https://github.com/Vlad-PLK/PHILOSOPHER) | Dining philosophers problem simulation with threads | ✅ | C, Semaphores, Threads |
 | [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | Simple shell program | ✅ | C, Bash scripting concepts, Recursivity |
 | [NETPRACTICE](https://github.com/Vlad-PLK/NETPRACTICE) | Networking exercises | ✅ | C, Sockets, Networking |
-| [CUB3D]([invalid URL removed](https://github.com/rilemko/42-cub3d)) | Raycaster-based 3D engine | ✅ | C, Raycasting algorithms |
+| [CUB3D](https://github.com/Vlad-PLK/cub3d) | Raycaster-based 3D FPS Game | ✅ | C, Raycasting algorithms |
 | [CPP 0-4](https://github.com/Vlad-PLK/CPP0-4) | C++ basics exercises | ✅ | C++ |
 | [CPP 5-9](https://github.com/Vlad-PLK/INCEPTION)  | Advanced C++ concepts | ✅ | C++, Algorithms, Containers |
 | [INCEPTION](https://github.com/Vlad-PLK/INCEPTION)  | Web Small Infrastructure using Docker-Compose | ✅ | Docker, Docker-Compose, NGINX, WordPress, PHP-FPM |
