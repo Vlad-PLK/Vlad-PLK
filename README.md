@@ -32,15 +32,15 @@ Of course I'm open to work and let's do it together if you want to achieve every
 | [GET NEXT LINE](https://github.com/Vlad-PLK/GET_NEXT_LINE)  | Function to read a line from a file | ✅ | C, FDs |
 | [PIPEX](https://github.com/Vlad-PLK/PIPEX)  | Command pipeline implementation | ✅ | C, Pipes, Processes |
 | [PUSH SWAP](https://github.com/Vlad-PLK/PUSH_SWAP)  | Push Swap sorting algorithm | ✅ | C, Algorithms, Data Structures |
-| [SO LONG](https://github.com/Vlad-PLK/SO_LONG)  | Basic 2D Game with a custom graphic library | ✅ | C |
+| [SO LONG](https://github.com/Vlad-PLK/SO_LONG)  | Basic 2D Game with a custom graphic library | ✅ | C, Algorithms |
 | [PHILOSOPHER](https://github.com/Vlad-PLK/PHILOSOPHER) | Dining philosophers problem simulation with threads | ✅ | C, Semaphores, Threads |
-| [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | Simple shell program | ✅ | C, Bash scripting concepts, Recursivity |
+| [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | Bash implementation in C | ✅ | C, Bash scripting concepts, Recursivity |
 | [NETPRACTICE](https://github.com/Vlad-PLK/NETPRACTICE) | Networking exercises | ✅ | C, Sockets, Networking |
-| [CUB3D](https://github.com/Vlad-PLK/cub3d) | Raycaster-based 3D FPS Game | ✅ | C, Raycasting algorithms |
-| [CPP 0-4](https://github.com/Vlad-PLK/CPP0-4) | C++ basics exercises | ✅ | C++ |
-| [CPP 5-9](https://github.com/Vlad-PLK/INCEPTION)  | Advanced C++ concepts | ✅ | C++, Algorithms, Containers |
+| [CUB3D](https://github.com/Vlad-PLK/cub3d) | Raycaster-based 3D FPS Game | ✅ | C, Raycasting algorithms, C Graphical Library |
+| [CPP 0-4](https://github.com/Vlad-PLK/CPP0-4) | C++ basics exercises | ✅ | C++, O.O.P |
+| [CPP 5-9](https://github.com/Vlad-PLK/INCEPTION)  | Advanced C++ concepts | ✅ | C++, Algorithms, Containers, O.O.P |
 | [INCEPTION](https://github.com/Vlad-PLK/INCEPTION)  | Web Small Infrastructure using Docker-Compose | ✅ | Docker, Docker-Compose, NGINX, WordPress, PHP-FPM |
-| [FT-IRC](https://github.com/Vlad-PLK/Internet-Relay-Chat) | IRC client implementation | ✅ | C++, Network protocols, Socket, IPv4 |
+| [FT-IRC](https://github.com/Vlad-PLK/Internet-Relay-Chat) | IRC Server implementation | ✅ | C++, Network protocols, Sockets, IPv4 |
 </br>
 
 See you soon and hope you enjoy my page !</br>
