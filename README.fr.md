@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">MON PARCOURS DE PROGRAMMEUR</h1>
+  <h1 align="center">MES PROJETS</h1>
 </p>
 
 <p align="center">
