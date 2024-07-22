@@ -7,16 +7,14 @@
 
 [🇫🇷FR VERSION🇫🇷](https://github.com/Vlad-PLK/Vlad-PLK/blob/main/README.fr.md)
 
-Hi, I'm Vladimir, a [42 Nice](https://42nice.fr) student and a young fellow developper !
+Hi, I'm Vladimir, a junior developper and a student of [42 Nice](https://42nice.fr) since March 2022.
 
-I've been following 42's main cursus since March 2022 after the "piscine" of February 2022.
+Here you will find all my coding journey through 42 Cursus and more of my personnal projects I made, documented with all my researchs and my approaches to solve to them.
 
-Here you will find all my coding journey through 42 (and more...) with all the differents projects I made, documented with my researchs and my approaches to find solutions to them.
-
-C is the most powerfull coding language and I don't even want to argue on that😎</br>
+The fundamental pillar of a great developper besides in learning C and I don't even want to argue on that😎</br>
 C with classes is just easier C so be brave and embrace C!</br>
 
-Check out all the crazy projects I've done and feel free to contact me for more details 🚀
+Check out all my projects bellow and feel free to contact me for more details 🚀
 
 Of course I'm open to work and let's do it together if you want to achieve everything you ever wanted 💪 </br>
 
@@ -27,20 +25,20 @@ Of course I'm open to work and let's do it together if you want to achieve every
 
 | Project Name | Description | Completion | Skills |
 |---|---|---|---|
-| [LIBFT](https://github.com/Vlad-PLK/LIBFT)  | Core library functions | ✅ | C, Data Structures |
-| [PRINTF](https://github.com/Vlad-PLK/PRINTF)  | Custom `printf` implementation | ✅ | C |
-| [GET NEXT LINE](https://github.com/Vlad-PLK/GET_NEXT_LINE)  | Function to read a line from a file | ✅ | C, FDs |
+| [LIBFT](https://github.com/Vlad-PLK/LIBFT)  | Core C library functions | ✅ | C, Data Structures, Algorithm |
+| [PRINTF](https://github.com/Vlad-PLK/PRINTF)  | Custom `printf` implementation | ✅ | C, VA_ARG functions |
+| [GET NEXT LINE](https://github.com/Vlad-PLK/GET_NEXT_LINE)  | Function to read a line from a file | ✅ | C, FDs, Static Variables |
 | [PIPEX](https://github.com/Vlad-PLK/PIPEX)  | Command pipeline implementation | ✅ | C, Pipes, Processes |
-| [PUSH SWAP](https://github.com/Vlad-PLK/PUSH_SWAP)  | Push Swap sorting algorithm | ✅ | C, Algorithms, Data Structures |
-| [SO LONG](https://github.com/Vlad-PLK/SO_LONG)  | Basic 2D Game with a custom graphic library | ✅ | C, Algorithms |
+| [PUSH SWAP](https://github.com/Vlad-PLK/PUSH_SWAP)  | Sorting Algorithm with stacks | ✅ | C, Algorithms, Data Structures |
+| [SO LONG](https://github.com/Vlad-PLK/SO_LONG)  | Basic 2D Game with a custom graphic library | ✅ | C, Algorithms, Game Developpement |
 | [PHILOSOPHER](https://github.com/Vlad-PLK/PHILOSOPHER) | Dining philosophers problem simulation with threads | ✅ | C, Semaphores, Threads |
-| [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | Bash implementation in C | ✅ | C, Bash scripting concepts, Recursivity |
-| [NETPRACTICE](https://github.com/Vlad-PLK/NETPRACTICE) | Networking exercises | ✅ | C, Sockets, Networking |
-| [CUB3D](https://github.com/Vlad-PLK/cub3d) | Raycaster-based 3D FPS Game | ✅ | C, Raycasting algorithms, C Graphical Library |
+| [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | Bash implementation in C | ✅ | C, Bash scripting concepts, Recursivity, Linux, Data Structures |
+| [NETPRACTICE](https://github.com/Vlad-PLK/NETPRACTICE) | Networking exercises | ✅ | Sockets, Networking |
+| [CUB3D](https://github.com/Vlad-PLK/cub3d) | Raycaster-based 3D FPS Game | ✅ | C, Raycasting algorithms, Game Developpement |
 | [CPP 0-4](https://github.com/Vlad-PLK/CPP0-4) | C++ basics exercises | ✅ | C++, O.O.P |
-| [CPP 5-9](https://github.com/Vlad-PLK/INCEPTION)  | Advanced C++ concepts | ✅ | C++, Algorithms, Containers, O.O.P |
-| [INCEPTION](https://github.com/Vlad-PLK/INCEPTION)  | Web Small Infrastructure using Docker-Compose | ✅ | Docker, Docker-Compose, NGINX, WordPress, PHP-FPM |
-| [FT-IRC](https://github.com/Vlad-PLK/Internet-Relay-Chat) | IRC Server implementation | ✅ | C++, Network protocols, Sockets, IPv4 |
+| [CPP 5-9](https://github.com/Vlad-PLK/INCEPTION)  | Advanced C++ concepts | ✅ | C++, Algorithms, Containers, O.O.P, Exceptions, Templates |
+| [INCEPTION](https://github.com/Vlad-PLK/INCEPTION)  | Web Small Infrastructure using Docker-Compose | ✅ | Docker, Docker-Compose, NGINX, WordPress, PHP-FPM, MariaDB |
+| [FT-IRC](https://github.com/Vlad-PLK/Internet-Relay-Chat) | IRC Server implementation | ✅ | C++, Network protocols, Sockets, IPv4, IRC Protocol, IRSSI |
 </br>
 
 See you soon and hope you enjoy my page !</br>
