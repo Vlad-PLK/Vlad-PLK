@@ -41,6 +41,8 @@ Of course I'm open to work and let's do it together if you want to achieve every
 | [FT-IRC](https://github.com/Vlad-PLK/Internet-Relay-Chat) | IRC Server implementation | ✅ | C++, Network protocols, Sockets, IPv4, IRC Protocol, IRSSI |
 </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad-PLK)](https://github.com/anuraghazra/github-readme-stats)
+
 See you soon and hope you enjoy my page !</br>
 [![Gmail](https://img.shields.io/badge/Email-e74c3c?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:leonpolo365@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vladimir-polojienko-735563307)
