@@ -9,7 +9,7 @@
 
 Hi, I'm Vladimir, a junior developper and a student of [42 Nice](https://42nice.fr) since March 2022.
 
-Here you will find all my coding journey through 42 Cursus and more of my personnal projects I made, documented with all my researchs and my approaches to solve to them.
+Here you will find all my coding journey through 42 Cursus and more of my personnal projects, documented with all my researchs and my approaches to solve them.
 
 The fundamental pillar of a great developper besides in learning C and I don't even want to argue on that😎</br>
 C with classes is just easier C so be brave and embrace C!</br>
