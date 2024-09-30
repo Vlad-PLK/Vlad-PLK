@@ -7,7 +7,7 @@
 
 [🇫🇷FR VERSION🇫🇷](https://github.com/Vlad-PLK/Vlad-PLK/blob/main/README.fr.md)
 
-Hi, I'm Vladimir, a junior developper and a student of [42 Nice](https://42nice.fr) since March 2022.
+Hi, I'm Vladimir, a junior developper and a student of [42 Nice](https://42nice.fr).
 
 Here you will find all my coding journey through 42 Cursus and more of my personnal projects, documented with all my researchs and my approaches to solve them.
 
