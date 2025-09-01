@@ -1,47 +1,65 @@
-<p align="center">
-  <h1 align="center">MES PROJETS</h1>
-</p>
+<h1 align="center">Vlad - Développeur Junior</h1>
 
 <p align="center">
-  <img width="20%" alt="42LOGO" src="https://github.com/Vlad-PLK/Vlad-PLK/assets/61476758/649f8084-3f1d-421c-97ef-708453bd9b5d">
+  <em>Construire des solutions robustes, apprendre chaque jour et partager mon parcours.</em>
 </p>
 
-[🏴󠁧󠁢󠁥󠁮󠁧󠁿VERSION EN ANGLAIS🏴󠁧󠁢󠁥󠁮󠁧󠁿](https://github.com/Vlad-PLK)
+---
 
-Bonjour, je suis Vladimir, développeur junior et étudiant chez [42 Nice](https://42nice.fr) depuis mars 2022.
+## 👨‍💻 À propos de moi
 
-Vous trouverez ici tout mon parcours à travers le cursus 42 ainsi que mes projets personnels, documentés avec toutes mes recherches et mes approches pour les réaliser.
+Bonjour, je m'appelle Vladimir, un développeur junior passionné avec de l'expérience sur des projets personnels et professionnels. J'ai de solides bases en C, C++ et en pratiques de développement modernes, avec un intérêt croissant pour des solutions évolutives et prêtes pour la production.
 
-L'essence d'un excellent développeur est d'apprendre le C, et là-dessus, je ne veux même pas discuter 😎<br>
-Le C avec des classes c'est du C en plus simple, alors soyez courageux et adoptez le C !💪<br>
+Je suis engagé dans un apprentissage continu et la livraison de code de haute qualité, bien documenté. Mon parcours a commencé à [42 Nice](https://42nice.fr), mais mes ambitions et projets vont bien au-delà de l'école.
 
-Découvrez tous mes projets ci-dessous et n'hésitez pas à me contacter pour plus de détails 🚀
+---
 
-Bien sûr, je suis prêt à travailler avec quiconque désire atteindre tous ses objectifs ! <br>
+## 🚀 Objectif actuel
 
-*"Là où la volonté est grande,<br>
- les difficultés ne peuvent être grandes."* <br>
- **Niccolò Machiavelli**<br>
-</br>
+**Futur Ingénieur DevOps Cloud**
 
-| Nom du Projet | Description | Terminé | Compétences |
-|---|---|---|---|
-| [LIBFT](https://github.com/Vlad-PLK/LIBFT) | Bibliothèque de base en C | ✅ | C, Structures de données, Algorithmes |
-| [PRINTF](https://github.com/Vlad-PLK/PRINTF) | Implémentation personnalisée de `printf` | ✅ | C, Fonctions VA_ARG |
-| [GET NEXT LINE](https://github.com/Vlad-PLK/GET_NEXT_LINE) | Fonction retournant la ligne suivante d'un fichier | ✅ | C, FDs, Variables statiques |
-| [PIPEX](https://github.com/Vlad-PLK/PIPEX) | Implémentation du pipeline de bash en C | ✅ | C, Pipes, Processus |
-| [PUSH SWAP](https://github.com/Vlad-PLK/PUSH_SWAP) | Algorithme de tri avec des piles | ✅ | C, Algorithmes, Structures de données |
-| [SO LONG](https://github.com/Vlad-PLK/SO_LONG) | Jeu 2D basique avec une bibliothèque graphique personnalisée | ✅ | C, Algorithmes, Développement Jeux-Vidéos |
-| [PHILOSOPHER](https://github.com/Vlad-PLK/PHILOSOPHER) | Simulation du problème des diners des philosophes avec des threads | ✅ | C, Sémaphores, Threads |
-| [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | Reproduction du Bash et de builtin | ✅ | C, Concepts de script Bash, Récursivité, Linux, Structures de données |
-| [NETPRACTICE](https://github.com/Vlad-PLK/NETPRACTICE) | Exercices de réseau | ✅ | Sockets, Réseau |
-| [CUB3D](https://github.com/Vlad-PLK/cub3d) | Jeu FPS 3D basé sur le raycasting | ✅ | C, Algorithmes de raycasting, Développement de Jeux-Vidéos |
-| [CPP 0-4](https://github.com/Vlad-PLK/CPP0-4) | Exercices de base en C++ | ✅ | C++, POO |
-| [CPP 5-9](https://github.com/Vlad-PLK/INCEPTION) | Concepts avancés en C++ | ✅ | C++, Algorithmes, Conteneurs, POO, Exceptions, Templates |
-| [INCEPTION](https://github.com/Vlad-PLK/INCEPTION) | Infrastructure Web gérée par Docker-Compose | ✅ | Docker, Docker-Compose, NGINX, WordPress, PHP-FPM, MariaDB |
-| [FT-IRC](https://github.com/Vlad-PLK/Internet-Relay-Chat) | Implémentation d'un serveur IRC | ✅ | C++, Protocoles réseau, Sockets, IPv4, IRSSI
+Je travaille activement pour devenir Ingénieur DevOps Cloud. Ici, je partage ma progression à travers des projets concrets : automatisation, CI/CD, conteneurisation, infrastructure cloud, et plus encore. Chaque projet est documenté avec clarté et professionnalisme, reflétant ma volonté de maîtriser l'écosystème DevOps et Cloud.
 
-Au plaisir et j'espère que vous apprécierez mon GitHub !</br>
-[![Gmail](https://img.shields.io/badge/Email-e74c3c?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:leonpolo365@gmail.com)  
+---
+
+## 🤝 Collaborons !
+
+Je crois au pouvoir de la collaboration et de l'open source. Si vous souhaitez travailler ensemble, partager des idées ou contribuer à l'un de mes projets, n'hésitez pas à me contacter. Que vous soyez développeur, recruteur ou passionné, je suis toujours ouvert aux nouvelles opportunités et au travail d'équipe.
+
+---
+
+## 📂 Projets phares
+
+| Nom du projet | Description | Technologies |
+|---|---|---|
+| [LIBFT](https://github.com/Vlad-PLK/LIBFT)  | Fonctions principales d'une bibliothèque C | C, Structures de données |
+| [PRINTF](https://github.com/Vlad-PLK/PRINTF)  | Implémentation personnalisée de `printf` | C, Fonctions variadiques |
+| [PIPEX](https://github.com/Vlad-PLK/PIPEX)  | Implémentation de pipelines de commandes | C, Processus, Pipes |
+| [MINISHELL](https://github.com/Vlad-PLK/MINISHELL) | Shell type Bash en C | C, Linux, Structures de données |
+| [INCEPTION](https://github.com/Vlad-PLK/INCEPTION)  | Infrastructure web avec Docker Compose | Docker, NGINX, WordPress, MariaDB |
+| [FT-IRC](https://github.com/Vlad-PLK/Internet-Relay-Chat) | Serveur IRC | C++, Protocoles réseau |
+| [CUB3D](https://github.com/Vlad-PLK/CUB3D) | Moteur de jeu 3D | C, Raycasting, Graphismes |
+| [PHILOSOPHERS](https://github.com/Vlad-PLK/PHILOSOPHERS) | Problème des philosophes | C, Multithreading |
+| [PUSH_SWAP](https://github.com/Vlad-PLK/PUSH_SWAP) | Visualiseur d'algorithme de tri | C, Algorithmes |
+| [FDF](https://github.com/Vlad-PLK/FDF) | Visualiseur de fil de fer 3D | C, Graphismes |
+| [SO_LONG](https://github.com/Vlad-PLK/SO_LONG) | Projet de jeu 2D | C, Développement de jeux |
+| [GET_NEXT_LINE](https://github.com/Vlad-PLK/GET_NEXT_LINE) | Lecture de fichiers ligne par ligne | C, Entrée/Sortie de fichiers |
+| [BORN2BEROOT](https://github.com/Vlad-PLK/BORN2BEROOT) | Configuration et sécurité d'un serveur Linux | Bash, Linux |
+| ...et plus sur mes [dépôts GitHub](https://github.com/Vlad-PLK?tab=repositories) |
+
+---
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Email-e74c3c?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:leonpolo365@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vladimir-polojienko-735563307)
+
+---
+
+*Connectons-nous, partageons et construisons ensemble quelque chose de grand !*
+
+<!---
+Vlad-PLK/Vlad-PLK est un dépôt ✨ spécial ✨ car son `README.fr.md` (ce fichier) apparaît sur votre profil GitHub.
+Vous pouvez cliquer sur Aperçu pour voir vos modifications.
+-->
 
